@@ -1,0 +1,7 @@
+{
+    "DB_NAME": "concerts",
+    "DB_USER": "wambui",
+    "DB_PASSWORD": "wambui",
+    "DB_HOST": "localhost",
+    "DB_PORT": "5432"
+}
